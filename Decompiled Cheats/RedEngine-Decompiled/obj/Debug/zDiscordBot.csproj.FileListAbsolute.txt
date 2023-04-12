@@ -1,0 +1,3 @@
+C:\Users\Icmp\AppData\Local\Temp\Rar$DIa24100.38690\obj\Debug\zDiscordBot.csproj.AssemblyReference.cache
+C:\Users\Icmp\AppData\Local\Temp\Rar$DIa24100.38690\obj\Debug\zDiscordBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Icmp\AppData\Local\Temp\Rar$DIa24100.38690\obj\Debug\zDiscordBot.csproj.CoreCompileInputs.cache
