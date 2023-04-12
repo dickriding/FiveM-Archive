@@ -1,0 +1,8 @@
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\dumper.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\dumper.Form1.resources
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\dumper.Properties.Resources.resources
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\dumper.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\dumper.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\dumper\dumper\bin\Debug\yung X marcodsl FiveM Dumper.exe.config
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\yung X marcodsl FiveM Dumper.exe
+C:\Users\altai\source\repos\dumper\dumper\obj\Debug\yung X marcodsl FiveM Dumper.pdb
